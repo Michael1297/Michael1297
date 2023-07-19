@@ -1,4 +1,9 @@
-### Hi there 👋
+Добро пожаловать, путник, вот, моя статистика и немного информации обо мне.
+
+- Живу в России, г. Москва 🌴
+
+[![Michael1297's GitHub stats](https://github-readme-stats.vercel.app/api?username=Michael1297)](https://github.com/Michael1297/)
+
 
 <!--
 **Michael1297/Michael1297** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
