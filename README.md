@@ -2,8 +2,9 @@
 
 - Живу в России, г. Москва 🌴
 
+<!---
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=michael1297" alt="michael1297" /></a> </p>
-
+-->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=michael1297&show_icons=true&locale=en&layout=compact" alt="michael1297" /></p>
 
