@@ -10,7 +10,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=michael1297&show_icons=true&locale=en" alt="michael1297" /></p>
 
-![Snake Chart](https://raw.githubusercontent.com/Michael1297/Michael1297/output/github-contribution-grid-snake.svg)
+![Snake Chart](https://raw.githubusercontent.com/michael1297/michael1297/output/github-contribution-grid-snake.svg)
 
 
 <!--
