@@ -1,7 +1,7 @@
 Добро пожаловать, путник, вот, моя статистика и немного информации обо мне.
 
 - Живу в России, г. Москва 🌴
-- 🐸Лягушки милые🐸
+
 
 <!---
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=michael1297" alt="michael1297" /></a> </p>
