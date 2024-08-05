@@ -7,15 +7,15 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=michael1297" alt="michael1297" /></a> </p>
 -->
 
-<p media="(prefers-color-scheme: light)">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=michael1297&show_icons=true&locale=en&layout=compact" alt="michael1297"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=michael1297&show_icons=true&locale=en" alt="michael1297"/>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: light)" align="left" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=michael1297&show_icons=true&locale=en&layout=compact" alt="michael1297"/>
+  <source media="(prefers-color-scheme: light)" align="left" align="center" srcset="https://github-readme-stats.vercel.app/api?username=michael1297&show_icons=true&locale=en" alt="michael1297"/>
+</picture>
 
-<p media="(prefers-color-scheme: dark)">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=michael1297&show_icons=true&locale=en&layout=compact&theme=onedark" alt="michael1297"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=michael1297&show_icons=true&locale=en&theme=onedark" alt="michael1297"/>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" align="left" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=michael1297&show_icons=true&locale=en&layout=compact&theme=onedark" alt="michael1297"/>
+  <source media="(prefers-color-scheme: dark)" align="center" srcset="https://github-readme-stats.vercel.app/api?username=michael1297&show_icons=true&locale=en&theme=onedark" alt="michael1297"/>
+</picture>
 
 ![Snake Chart](https://raw.githubusercontent.com/michael1297/michael1297/output/github-contribution-grid-snake.svg)
 
